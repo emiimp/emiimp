@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emiimp
-- 👀 I’m interested in foreing languages, syntax, art, music and learning new things.
-- 🌱 I’m currently learning Web Development and pursuing a degree in English Legal Translation.
-- 💞️ I’m looking to collaborate on really big & interesting projects!! 
+- 👀 I’m interested in foreing languages, syntax (regarding grammar AND programming), art, music and learning new things.
+- 🌱 I’m currently learning Fullstack Development and pursuing a degree in English-Spanish Legal Translation. I'm a private English tutor as well.
+- 💞️ I’m looking to collaborate on really big & interesting projects!!! 
 - XOXO
 
 <!---
